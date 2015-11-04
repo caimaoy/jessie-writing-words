@@ -28,12 +28,12 @@
         "pageNumbers": false, 
         "paperSize": "a4"
     }, 
-    "title": "Title", 
+    "title": "Writing words", 
     "variables": {},
     "plugins": ["disqus"],
     "pluginsConfig": {
         "disqus": {
-            "shortName": "jessie-prefix-root"
+            "shortName": "jessie-english"
         }
     }  
 }
